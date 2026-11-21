@@ -301,7 +301,7 @@ const LEAD: LeadCard[] = [
     art: "akvan",
     accent: TEAL,
     tint: TEAL_TINT,
-    lines: ["AKVAN HITS GOPALPUR, GUSTS 90", "300,000 EVACUATED [26]", "9,341 SHELTERS OPEN"],
+    lines: ["AKVAN HITS GOPALPUR, GUSTS 90", "300,000 EVACUATED [24]", "9,341 SHELTERS OPEN"],
     stamp: "EV 08:30 IST · SRC 20 NOV",
   },
   {
@@ -377,9 +377,9 @@ const DESKS: Desk[] = [
     stories: [
       { lines: ["ANTHROPIC SHARES -9% ON DAY 2", "AFTER RECORD $81.3B IPO"], ref: "[17]" },
       { lines: ["BITCOIN NEAR $61,700, LOWEST", "SINCE JULY, 3RD DAY DOWN"], ref: "[18]" },
-      { lines: ["US WARNS CHINA COULD CONTROL", "AMERICAN DRUG SUPPLY"], ref: "[22]" },
-      { lines: ["GUPTA GETS 19+ YEARS FOR", "NEW YORK MURDER PLOT"], ref: "[23]" },
-      { lines: ["CANADA BUDGET PASSES 162-151", "BC'S FIRST TORY GOVT"], ref: "[25]" },
+      { lines: ["US WARNS CHINA COULD CONTROL", "AMERICAN DRUG SUPPLY"], ref: "[21]" },
+      { lines: ["GUPTA GETS 19+ YEARS FOR", "NEW YORK MURDER PLOT"], ref: "[22]" },
+      { lines: ["CANADA BUDGET PASSES 162-151", "BC'S FIRST TORY GOVT"], ref: "[23]" },
     ],
   },
   {
@@ -387,25 +387,25 @@ const DESKS: Desk[] = [
     accent: TEAL,
     tint: TEAL_TINT,
     stories: [
-      { lines: ["CHINA BARS BLOOMBERG REPORTER", "FROM SHENZHEN SUMMIT"], ref: "[27]" },
-      { lines: ["TSMC, SAMSUNG HALT CHIPS", "BOUND FOR CHINA"], ref: "[28]" },
-      { lines: ["GOOGLE LAUNCHES GEMINI 4 NEON", "NEW AI MODEL DEBUTS"], ref: "[30]" },
-      { lines: ["NVIDIA, MICROSOFT DEEPEN TIE", "VERA RUBIN ON AZURE"], ref: "[31]" },
+      { lines: ["CHINA BARS BLOOMBERG REPORTER", "FROM SHENZHEN SUMMIT"], ref: "[25]" },
+      { lines: ["TSMC, SAMSUNG HALT CHIPS", "BOUND FOR CHINA"], ref: "[26]" },
+      { lines: ["GOOGLE LAUNCHES GEMINI 4 NEON", "NEW AI MODEL DEBUTS"], ref: "[27]" },
+      { lines: ["NVIDIA, MICROSOFT DEEPEN TIE", "VERA RUBIN ON AZURE"], ref: "[28]" },
     ],
   },
   {
     name: "LATIN AMERICA",
     accent: GREEN,
     tint: GREEN_TINT,
-    stories: [{ lines: ["PERU QUAKE MAGNITUDE 6.7-6.9", "SHAKES CENTRAL JUNIN"], ref: "[32]" }],
+    stories: [{ lines: ["PERU QUAKE MAGNITUDE 6.7-6.9", "SHAKES CENTRAL JUNIN"], ref: "[29]" }],
   },
   {
     name: "AFRICA",
     accent: BROWN,
     tint: BROWN_TINT,
     stories: [
-      { lines: ["KENYA STARTS 42-DAY COUNTDOWN", "TO EBOLA-FREE STATUS"], ref: "[33]" },
-      { lines: ["COP31 DRAFT OMITS FOSSIL FUELS", "TALKS PAST DEADLINE"], ref: "[34]" },
+      { lines: ["KENYA STARTS 42-DAY COUNTDOWN", "TO EBOLA-FREE STATUS"], ref: "[30]" },
+      { lines: ["COP31 DRAFT OMITS FOSSIL FUELS", "TALKS PAST DEADLINE"], ref: "[31]" },
     ],
   },
   {
@@ -413,8 +413,8 @@ const DESKS: Desk[] = [
     accent: INDIGO,
     tint: INDIGO_TINT,
     stories: [
-      { lines: ["AU, CANADA, NZ URGE RUSSIA", "CEASEFIRE IN APEC PACT"], ref: "[35]" },
-      { lines: ["XI: CHINA-AUSTRALIA RESET", "AFTER ALBANESE MEETING"], ref: "[37]" },
+      { lines: ["AU, CANADA, NZ URGE RUSSIA", "CEASEFIRE IN APEC PACT"], ref: "[32]" },
+      { lines: ["XI: CHINA-AUSTRALIA RESET", "AFTER ALBANESE MEETING"], ref: "[33]" },
     ],
   },
   {
@@ -422,9 +422,9 @@ const DESKS: Desk[] = [
     accent: SLATE,
     tint: SLATE_TINT,
     stories: [
-      { lines: ["CANCER PILL SHRINKS TUMOURS", "IN 60.7% OF PATIENTS"], ref: "[38]" },
-      { lines: ["SEC CHARGES 8 IN FAKE CRYPTO", "SCAM, $37M LOST"], ref: "[39]" },
-      { lines: ["BINANCE HACKER MOVES $600M", "IN ETHER IN TWO DAYS"], ref: "[40]" },
+      { lines: ["CANCER PILL SHRINKS TUMOURS", "IN 60.7% OF PATIENTS"], ref: "[34]" },
+      { lines: ["SEC CHARGES 8 IN FAKE CRYPTO", "SCAM, $37M LOST"], ref: "[35]" },
+      { lines: ["BINANCE HACKER MOVES $600M", "IN ETHER IN TWO DAYS"], ref: "[36]" },
     ],
   },
 ];
@@ -667,7 +667,7 @@ function buildPage(): Page {
   // Timeline rail: only sourced times appear on it.
   p.hline(MX, 918, W - 2 * MX, INK);
   drawText(p, "20 NOV · TIMELINE — ONLY SOURCED TIMES SHOWN", MX, 924, 2, INK, true);
-  drawText(p, "08:30 IST — AKVAN LANDFALL NEAR GOPALPUR [26]", MX, 940, 2, TEAL, true);
+  drawText(p, "08:30 IST — AKVAN LANDFALL NEAR GOPALPUR [24]", MX, 940, 2, TEAL, true);
   drawText(p, "ALL OTHER DISPATCHES ARE DATED 20 NOV 2026 ONLY — NO TIMES GUESSED", MX, 956, 2, SOFT);
   // Footer: source key and repository.
   p.hline(MX, 976, W - 2 * MX, INK);

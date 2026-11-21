@@ -54,9 +54,6 @@ network, no install step. It writes one file, `out/entry.png`
   Darnytskyi, Pivdennyi, Gopalpur, Rohingya.
 - No figure on the page is invented, and no timezone is converted without
   a source behind it.
-- Four stories from the research set were cut for space (numbers 21, 24,
-  29 and 36), so the source index below skips those numbers. The 36
-  stories on the page are numbered [01]–[40] with those four gaps.
 
 ## Source index
 
@@ -76,7 +73,7 @@ to the exact story.
 - [16] Nvidia −14.01% on reports of an SEC accounting probe — Reuters, 20 Nov 2026 — https://www.reuters.com
 - [19] First three-way Trump–Xi–Putin meeting opens in Shenzhen — Associated Press, 20 Nov 2026 — https://apnews.com
 - [20] US–China accord on human oversight of military AI — Associated Press, 20 Nov 2026 — https://apnews.com
-- [26] Cyclone Akvan makes landfall near Gopalpur, Odisha, about 08:30 IST; 300,000+ evacuated, 9,341 shelters — India Meteorological Department, 20 Nov 2026 — https://www.imd.gov.in
+- [24] Cyclone Akvan makes landfall near Gopalpur, Odisha, about 08:30 IST; 300,000+ evacuated, 9,341 shelters — India Meteorological Department, 20 Nov 2026 — https://www.imd.gov.in
 
 ### Europe
 
@@ -98,36 +95,36 @@ to the exact story.
 
 - [17] Anthropic shares −9% on IPO day two after the record $81.3B listing — Reuters, 20 Nov 2026 — https://www.reuters.com
 - [18] Bitcoin falls a third straight day to near $61,700, lowest since July — CoinDesk, 20 Nov 2026 — https://www.coindesk.com
-- [22] US commission warns China could control the American drug supply — US–China Economic and Security Review Commission, 20 Nov 2026 — https://www.uscc.gov
-- [23] Nikhil Gupta sentenced to 19+ years over the New York murder plot — US Department of Justice, 20 Nov 2026 — https://www.justice.gov
-- [25] Canada's Liberal 2026 budget passes the House 162–151; British Columbia elects its first Conservative government in about 100 years — CBC, 20 Nov 2026 — https://www.cbc.ca
+- [21] US commission warns China could control the American drug supply — US–China Economic and Security Review Commission, 20 Nov 2026 — https://www.uscc.gov
+- [22] Nikhil Gupta sentenced to 19+ years over the New York murder plot — US Department of Justice, 20 Nov 2026 — https://www.justice.gov
+- [23] Canada's Liberal 2026 budget passes the House 162–151; British Columbia elects its first Conservative government in about 100 years — CBC, 20 Nov 2026 — https://www.cbc.ca
 
 ### Asia
 
-- [27] China bars Bloomberg reporter Annmarie Hordern from the Shenzhen summit — Bloomberg, 20 Nov 2026 — https://www.bloomberg.com
-- [28] TSMC and Samsung pause advanced chip sales bound for China after new US export curbs — Reuters, 20 Nov 2026 — https://www.reuters.com
-- [30] Google launches Gemini 4 Neon — Google, 20 Nov 2026 — https://blog.google
-- [31] NVIDIA and Microsoft deepen their AI partnership; Vera Rubin NVL72 on Azure — Microsoft, 20 Nov 2026 — https://news.microsoft.com
+- [25] China bars Bloomberg reporter Annmarie Hordern from the Shenzhen summit — Bloomberg, 20 Nov 2026 — https://www.bloomberg.com
+- [26] TSMC and Samsung pause advanced chip sales bound for China after new US export curbs — Reuters, 20 Nov 2026 — https://www.reuters.com
+- [27] Google launches Gemini 4 Neon — Google, 20 Nov 2026 — https://blog.google
+- [28] NVIDIA and Microsoft deepen their AI partnership; Vera Rubin NVL72 on Azure — Microsoft, 20 Nov 2026 — https://news.microsoft.com
 
 ### Latin America
 
-- [32] Magnitude 6.7–6.9 earthquake shakes central Peru, Junin region — US Geological Survey, 20 Nov 2026 — https://earthquake.usgs.gov
+- [29] Magnitude 6.7–6.9 earthquake shakes central Peru, Junin region — US Geological Survey, 20 Nov 2026 — https://earthquake.usgs.gov
 
 ### Africa
 
-- [33] Kenya begins a 42-day countdown to an Ebola-free declaration — World Health Organization, 20 Nov 2026 — https://www.who.int
-- [34] COP31 in Antalya: draft climate deal omits fossil fuels; talks run past deadline — UNFCCC, 20 Nov 2026 — https://unfccc.int
+- [30] Kenya begins a 42-day countdown to an Ebola-free declaration — World Health Organization, 20 Nov 2026 — https://www.who.int
+- [31] COP31 in Antalya: draft climate deal omits fossil fuels; talks run past deadline — UNFCCC, 20 Nov 2026 — https://unfccc.int
 
 ### Oceania
 
-- [35] Australia, Canada and New Zealand issue a joint APEC statement urging a Russia ceasefire — APEC, 20 Nov 2026 — https://www.apec.org
-- [37] Xi says China–Australia ties underwent a "comprehensive turnaround" after meeting Albanese in Shenzhen — Ministry of Foreign Affairs of China, 20 Nov 2026 — https://www.fmprc.gov.cn
+- [32] Australia, Canada and New Zealand issue a joint APEC statement urging a Russia ceasefire — APEC, 20 Nov 2026 — https://www.apec.org
+- [33] Xi says China–Australia ties underwent a "comprehensive turnaround" after meeting Albanese in Shenzhen — Ministry of Foreign Affairs of China, 20 Nov 2026 — https://www.fmprc.gov.cn
 
 ### Global desk
 
-- [38] Daraxonrasib pill plus chemo shrinks or clears pancreatic tumours in 60.7% of 61 patients — EORTC–NCI–AACR meeting, Barcelona, 20 Nov 2026 — https://www.eortc.org
-- [39] SEC charges eight entities over fake crypto platforms; 1,500+ investors, $37M+ — US Securities and Exchange Commission, 20 Nov 2026 — https://www.sec.gov
-- [40] Binance hacker moves about $600M in Ether over two days via THORChain and Chainflip — CoinDesk, 20 Nov 2026 — https://www.coindesk.com
+- [34] Daraxonrasib pill plus chemo shrinks or clears pancreatic tumours in 60.7% of 61 patients — EORTC–NCI–AACR meeting, Barcelona, 20 Nov 2026 — https://www.eortc.org
+- [35] SEC charges eight entities over fake crypto platforms; 1,500+ investors, $37M+ — US Securities and Exchange Commission, 20 Nov 2026 — https://www.sec.gov
+- [36] Binance hacker moves about $600M in Ether over two days via THORChain and Chainflip — CoinDesk, 20 Nov 2026 — https://www.coindesk.com
 
 ## License
 
